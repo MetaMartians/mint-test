@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mint-test/static/css/main.7bf880c3.chunk.css",
+    "main.js": "/mint-test/static/js/main.3e9e327b.chunk.js",
+    "main.js.map": "/mint-test/static/js/main.3e9e327b.chunk.js.map",
+    "runtime-main.js": "/mint-test/static/js/runtime-main.e4762b53.js",
+    "runtime-main.js.map": "/mint-test/static/js/runtime-main.e4762b53.js.map",
+    "static/js/2.d014ca22.chunk.js": "/mint-test/static/js/2.d014ca22.chunk.js",
+    "static/js/2.d014ca22.chunk.js.map": "/mint-test/static/js/2.d014ca22.chunk.js.map",
+    "static/js/3.9f03db8a.chunk.js": "/mint-test/static/js/3.9f03db8a.chunk.js",
+    "static/js/3.9f03db8a.chunk.js.map": "/mint-test/static/js/3.9f03db8a.chunk.js.map",
+    "index.html": "/mint-test/index.html",
+    "static/css/main.7bf880c3.chunk.css.map": "/mint-test/static/css/main.7bf880c3.chunk.css.map",
+    "static/js/2.d014ca22.chunk.js.LICENSE.txt": "/mint-test/static/js/2.d014ca22.chunk.js.LICENSE.txt",
+    "static/media/discord-icon.2483f142.svg": "/mint-test/static/media/discord-icon.2483f142.svg",
+    "static/media/twitter-icon.d1d75076.svg": "/mint-test/static/media/twitter-icon.d1d75076.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4762b53.js",
+    "static/js/2.d014ca22.chunk.js",
+    "static/css/main.7bf880c3.chunk.css",
+    "static/js/main.3e9e327b.chunk.js"
+  ]
+}
